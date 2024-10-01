@@ -1,0 +1,21 @@
+/* Estilos personalizados */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Tahoma', sans-serif;
+}
+
+article {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
